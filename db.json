@@ -1,0 +1,41 @@
+{
+    "users": [
+      {
+        "name": "Mahesh",
+        "age": "23",
+        "address": "1-1-652/K/1 ARUNDHATHI NAGAR, GANDHI NAGAR, ESHWAR LAXMI HOSPITAL MUSHEERABAD",
+        "salary": "10000",
+        "department": "",
+        "isMarried": true,
+        "status": false,
+        "id": 1
+      },
+      {
+        "name": "sandeep",
+        "age": "28",
+        "address": "31784 812748 UNDHATHI NAGAR, GANDHI NAGAR, ESHWAR LAXMI HOSPITAL MUSHEERABAD",
+        "salary": "74000",
+        "department": "EEE",
+        "status": false,
+        "id": 2
+      },
+      {
+        "name": "masai",
+        "address": "india",
+        "department": "IT",
+        "isMarried": true,
+        "status": false,
+        "id": 3
+      },
+      {
+        "name": "jwwb",
+        "age": "21",
+        "address": "hyderavd",
+        "salary": "10000",
+        "department": "EEE",
+        "isMarried": true,
+        "status": false,
+        "id": 4
+      }
+    ]
+  }
