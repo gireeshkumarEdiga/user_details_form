@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "name": "Mahesh",
+      "age": "23",
+      "address": "1-1-652/K/1 ARUNDHATHI NAGAR, GANDHI NAGAR, ESHWAR LAXMI HOSPITAL MUSHEERABAD",
+      "salary": "10000",
+      "department": "",
+      "isMarried": true,
+      "status": false,
+      "id": 1
+    },
+    {
+      "name": "Gireeshkumar Ediga",
+      "age": "22",
+      "address": "D.no :6-5, old lepakshi (street), lepakshi",
+      "salary": "200",
+      "department": "",
+      "isMarried": true,
+      "status": false,
+      "id": 2
+    },
+    {
+      "name": "Gireeshkumar Ediga",
+      "age": "",
+      "address": "D.no :6-5, old lepakshi (street), lepakshi",
+      "salary": "2000",
+      "department": "EEE",
+      "isMarried": true,
+      "status": false,
+      "id": 3
+    },
+    {
+      "age": "22",
+      "department": "ECE",
+      "isMarried": true,
+      "status": false,
+      "id": 4
+    },
+    {
+      "status": false,
+      "id": 5
+    },
+    {
+      "name": "Gireeshkumar Ediga",
+      "age": "11",
+      "address": "D. No :6-5, old lepakshi (street) , lepakshi",
+      "salary": "2",
+      "department": "EEE",
+      "isMarried": true,
+      "status": false,
+      "id": 6
+    }
+  ]
+}
